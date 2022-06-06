@@ -3,7 +3,7 @@
 ![kkY](https://user-images.githubusercontent.com/103011139/170854257-d5c3b421-a9dd-4efe-8b54-413be8fc3040.gif)
 
 프론트엔드 개발자를 꿈꾸고 있는 이수광입니다.<br>
-제 머릿속에 있는 아이디어와 디자인,기능을 웹으로 자유롭게 만드는게 첫 번째 목표입니다.
+제 머릿속에 있는 아이디어와 디자인,기능을 웹으로 자유롭게 만들 수 있는 실력을 갖추는게 첫 번째 목표입니다.
 
 😵‍💫 Skill & Studying <br><br>
 <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/CSS-orange?style=for-the-badge&logo=CSS3&logoColor=black"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=black"> <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Slack&logoColor=black"> <img src="https://img.shields.io/badge/Notion-red?style=for-the-badge&logo=Notion&logoColor=black"> <img src="https://img.shields.io/badge/Github-blck?style=for-the-badge&logo=Github&logoColor=black"> 
