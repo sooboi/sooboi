@@ -1,29 +1,38 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=🥸%20Front-End%20Soo&fontSize=30&animation=twinkling&fontAlign=50&fontAlignY=30)
-
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=🥸%20Front-End%20Soo&fontSize=30&animation=twinkling&fontAlign=50&fontAlignY=30) 
+  
 ![kkY](https://user-images.githubusercontent.com/103011139/170854257-d5c3b421-a9dd-4efe-8b54-413be8fc3040.gif)
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooboi&count_bg=%23B166CD&title_bg=%23C96D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+# " 프론트엔드 개발자 이수광입니다. " 
+### 화면과 기능을 만드는게 즐겁고, 여러 사람들과 소통하는 것이 좋습니다.
+현재 목표는 리액트와 타임스크립트를 이용해서, 머릿속의 화면과 기능을 전부 자유롭게 구현하는 실력을 갖추는 것입니다.
 
-프론트엔드 개발자를 꿈꾸고 있는 이수광입니다.<br>
-제 머릿속에 있는 아이디어와 디자인,기능을 웹으로 자유롭게 만들 수 있는 실력을 갖추는게 첫 번째 목표입니다.
 
-😵‍💫 Skill & Studying <br><br>
-<img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML5&logoColor=black">
-<img src="https://img.shields.io/badge/CSS-orange?style=for-the-badge&logo=CSS3&logoColor=black"> 
+## Tech Stacks ✨
+<img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/CSS-orange?style=for-the-badge&logo=CSS3&logoColor=black"> 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=black"> 
 <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
 <img src="https://img.shields.io/badge/StlyedComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white"> 
-<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=black"> 
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=black"> <br>
 <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Slack&logoColor=black">
 <img src="https://img.shields.io/badge/Notion-red?style=for-the-badge&logo=Notion&logoColor=black"> 
 <img src="https://img.shields.io/badge/Github-blck?style=for-the-badge&logo=Github&logoColor=black"> 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooboi)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooboi&count_bg=%23B166CD&title_bg=%23C96D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+
+
+
 
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
-
+</div>
 <!--
 **sooboi/sooboi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
