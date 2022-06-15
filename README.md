@@ -6,7 +6,17 @@
 제 머릿속에 있는 아이디어와 디자인,기능을 웹으로 자유롭게 만들 수 있는 실력을 갖추는게 첫 번째 목표입니다.
 
 😵‍💫 Skill & Studying <br><br>
-<img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/CSS-orange?style=for-the-badge&logo=CSS3&logoColor=black"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=black"> <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=black"> <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Slack&logoColor=black"> <img src="https://img.shields.io/badge/Notion-red?style=for-the-badge&logo=Notion&logoColor=black"> <img src="https://img.shields.io/badge/Github-blck?style=for-the-badge&logo=Github&logoColor=black"> 
+<img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML5&logoColor=black">
+<img src="https://img.shields.io/badge/CSS-orange?style=for-the-badge&logo=CSS3&logoColor=black"> 
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=black"> 
+<img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/StlyedComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=black"> 
+<img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Slack&logoColor=black">
+<img src="https://img.shields.io/badge/Notion-red?style=for-the-badge&logo=Notion&logoColor=black"> 
+<img src="https://img.shields.io/badge/Github-blck?style=for-the-badge&logo=Github&logoColor=black"> 
+
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooboi&count_bg=%23B166CD&title_bg=%23C96D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
