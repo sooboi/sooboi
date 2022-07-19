@@ -21,7 +21,7 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <br>
 <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Slack&logoColor=black">
 <img src="https://img.shields.io/badge/Notion-gray?style=for-the-badge&logo=Notion&logoColor=black"> 
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=black"> 
+<img src="https://img.shields.io/badge/Github-9B9B9B?style=for-the-badge&logo=Github&logoColor=black"> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooboi)](https://github.com/anuraghazra/github-readme-stats)
 
