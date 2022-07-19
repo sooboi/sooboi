@@ -12,14 +12,16 @@
 
 
 ## Tech Stacks ✨
-<img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&logo=HTML5&logoColor=black"> <img src="https://img.shields.io/badge/CSS-orange?style=for-the-badge&logo=CSS3&logoColor=black"> 
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"> 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=black"> 
-<img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/StlyedComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white"> 
-<img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=black"> <br>
+<img src="https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
+<img src="https://img.shields.io/badge/TS-3178C6?style=for-the-badge&logo=TypeScript&logoColor=black">
+<img src="https://img.shields.io/badge/StlyedComponents-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> <br>
 <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Slack&logoColor=black">
-<img src="https://img.shields.io/badge/Notion-red?style=for-the-badge&logo=Notion&logoColor=black"> 
-<img src="https://img.shields.io/badge/Github-blck?style=for-the-badge&logo=Github&logoColor=black"> 
+<img src="https://img.shields.io/badge/Notion-gray?style=for-the-badge&logo=Notion&logoColor=black"> 
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=black"> 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooboi)](https://github.com/anuraghazra/github-readme-stats)
 
