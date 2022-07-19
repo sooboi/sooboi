@@ -12,6 +12,7 @@
 
 
 ## Tech Stacks ✨
+<p/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black">
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=black"> 
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=black"> 
@@ -22,7 +23,8 @@
 <img src="https://img.shields.io/badge/Slack-purple?style=for-the-badge&logo=Slack&logoColor=black">
 <img src="https://img.shields.io/badge/Notion-gray?style=for-the-badge&logo=Notion&logoColor=black"> 
 <img src="https://img.shields.io/badge/Github-9B9B9B?style=for-the-badge&logo=Github&logoColor=black"> 
-
+<p/>
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooboi)](https://github.com/anuraghazra/github-readme-stats)
 
 
