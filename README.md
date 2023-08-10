@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=🥸%20Front%20SueBoi&fontSize=30&animation=twinkling&fontAlign=50&fontAlignY=30) 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=😈%20Front%20SueBoi&fontSize=30&animation=twinkling&fontAlign=50&fontAlignY=30) 
   
 ![kkY](https://user-images.githubusercontent.com/103011139/170854257-d5c3b421-a9dd-4efe-8b54-413be8fc3040.gif)
   
