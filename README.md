@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsooboi&count_bg=%23B166CD&title_bg=%23C96D6D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 # " 프론트엔드 개발 꿈나무 이수광입니다. " 
-### 화면과 기능을 만드는게 즐겁고, 여러 사람들과 소통하는 것이 좋습니다.
+### 화면과 기능을 만드는게 즐겁고 여러 사람들과 소통하는 것이 좋습니다.
 현재 목표는 리액트와 타입스크립트를 이용하여 머릿속의 화면과 기능을 원하는 만큼 자유롭게 구현하는 실력을 갖춘 개발자가 되는 것입니다. <p/>
 ( 만들고 싶은게 너무 많다 . . . 😫 )
 
